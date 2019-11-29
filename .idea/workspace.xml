@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71e2b66d-03e1-4e7a-8852-8a8cadaa639e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tb0S0Ykrbm0prLljosY0E4ffMC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tests in ud_cyber_crypto" type="DartTestRunConfigurationType" factoryName="Dart Test" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71e2b66d-03e1-4e7a-8852-8a8cadaa639e" name="Default Changelist" comment="" />
+      <created>1573713483669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573713483669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575008377027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575008377027" />
+    <state x="497" y="146" key="#tests_in_ud_cyber_crypto" timestamp="1575009358979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="146" key="#tests_in_ud_cyber_crypto/0.0.1536.824@0.0.1536.824" timestamp="1575009358979" />
+    <state width="1344" height="195" key="GridCell.Tab.0.bottom" timestamp="1575010267589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1344" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575010267589" />
+    <state width="1344" height="195" key="GridCell.Tab.0.center" timestamp="1575010267588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1344" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575010267588" />
+    <state width="1344" height="195" key="GridCell.Tab.0.left" timestamp="1575010267588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1344" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575010267588" />
+    <state width="1344" height="195" key="GridCell.Tab.0.right" timestamp="1575010267589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1344" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575010267589" />
+    <state x="278" y="55" key="SettingsEditor" timestamp="1575007347774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="278" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575007347774" />
+    <state x="466" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575007361155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575007361155" />
+  </component>
+</project>
